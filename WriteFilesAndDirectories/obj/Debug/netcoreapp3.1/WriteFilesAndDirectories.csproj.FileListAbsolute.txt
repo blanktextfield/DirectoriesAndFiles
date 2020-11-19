@@ -1,0 +1,13 @@
+C:\Users\mammu\source\repos\DirectoriesAndfiles\WriteFilesAndDirectories\bin\Debug\netcoreapp3.1\WriteFilesAndDirectories.exe
+C:\Users\mammu\source\repos\DirectoriesAndfiles\WriteFilesAndDirectories\bin\Debug\netcoreapp3.1\WriteFilesAndDirectories.deps.json
+C:\Users\mammu\source\repos\DirectoriesAndfiles\WriteFilesAndDirectories\bin\Debug\netcoreapp3.1\WriteFilesAndDirectories.runtimeconfig.json
+C:\Users\mammu\source\repos\DirectoriesAndfiles\WriteFilesAndDirectories\bin\Debug\netcoreapp3.1\WriteFilesAndDirectories.runtimeconfig.dev.json
+C:\Users\mammu\source\repos\DirectoriesAndfiles\WriteFilesAndDirectories\bin\Debug\netcoreapp3.1\WriteFilesAndDirectories.dll
+C:\Users\mammu\source\repos\DirectoriesAndfiles\WriteFilesAndDirectories\bin\Debug\netcoreapp3.1\WriteFilesAndDirectories.pdb
+C:\Users\mammu\source\repos\DirectoriesAndfiles\WriteFilesAndDirectories\obj\Debug\netcoreapp3.1\WriteFilesAndDirectories.csprojAssemblyReference.cache
+C:\Users\mammu\source\repos\DirectoriesAndfiles\WriteFilesAndDirectories\obj\Debug\netcoreapp3.1\WriteFilesAndDirectories.AssemblyInfoInputs.cache
+C:\Users\mammu\source\repos\DirectoriesAndfiles\WriteFilesAndDirectories\obj\Debug\netcoreapp3.1\WriteFilesAndDirectories.AssemblyInfo.cs
+C:\Users\mammu\source\repos\DirectoriesAndfiles\WriteFilesAndDirectories\obj\Debug\netcoreapp3.1\WriteFilesAndDirectories.csproj.CoreCompileInputs.cache
+C:\Users\mammu\source\repos\DirectoriesAndfiles\WriteFilesAndDirectories\obj\Debug\netcoreapp3.1\WriteFilesAndDirectories.dll
+C:\Users\mammu\source\repos\DirectoriesAndfiles\WriteFilesAndDirectories\obj\Debug\netcoreapp3.1\WriteFilesAndDirectories.pdb
+C:\Users\mammu\source\repos\DirectoriesAndfiles\WriteFilesAndDirectories\obj\Debug\netcoreapp3.1\WriteFilesAndDirectories.genruntimeconfig.cache

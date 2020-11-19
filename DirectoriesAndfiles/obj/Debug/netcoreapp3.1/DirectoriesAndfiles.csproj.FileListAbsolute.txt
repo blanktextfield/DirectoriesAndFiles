@@ -1,0 +1,13 @@
+C:\Users\mammu\source\repos\DirectoriesAndfiles\DirectoriesAndfiles\bin\Debug\netcoreapp3.1\DirectoriesAndfiles.exe
+C:\Users\mammu\source\repos\DirectoriesAndfiles\DirectoriesAndfiles\bin\Debug\netcoreapp3.1\DirectoriesAndfiles.deps.json
+C:\Users\mammu\source\repos\DirectoriesAndfiles\DirectoriesAndfiles\bin\Debug\netcoreapp3.1\DirectoriesAndfiles.runtimeconfig.json
+C:\Users\mammu\source\repos\DirectoriesAndfiles\DirectoriesAndfiles\bin\Debug\netcoreapp3.1\DirectoriesAndfiles.runtimeconfig.dev.json
+C:\Users\mammu\source\repos\DirectoriesAndfiles\DirectoriesAndfiles\bin\Debug\netcoreapp3.1\DirectoriesAndfiles.dll
+C:\Users\mammu\source\repos\DirectoriesAndfiles\DirectoriesAndfiles\bin\Debug\netcoreapp3.1\DirectoriesAndfiles.pdb
+C:\Users\mammu\source\repos\DirectoriesAndfiles\DirectoriesAndfiles\obj\Debug\netcoreapp3.1\DirectoriesAndfiles.csprojAssemblyReference.cache
+C:\Users\mammu\source\repos\DirectoriesAndfiles\DirectoriesAndfiles\obj\Debug\netcoreapp3.1\DirectoriesAndfiles.AssemblyInfoInputs.cache
+C:\Users\mammu\source\repos\DirectoriesAndfiles\DirectoriesAndfiles\obj\Debug\netcoreapp3.1\DirectoriesAndfiles.AssemblyInfo.cs
+C:\Users\mammu\source\repos\DirectoriesAndfiles\DirectoriesAndfiles\obj\Debug\netcoreapp3.1\DirectoriesAndfiles.csproj.CoreCompileInputs.cache
+C:\Users\mammu\source\repos\DirectoriesAndfiles\DirectoriesAndfiles\obj\Debug\netcoreapp3.1\DirectoriesAndfiles.dll
+C:\Users\mammu\source\repos\DirectoriesAndfiles\DirectoriesAndfiles\obj\Debug\netcoreapp3.1\DirectoriesAndfiles.pdb
+C:\Users\mammu\source\repos\DirectoriesAndfiles\DirectoriesAndfiles\obj\Debug\netcoreapp3.1\DirectoriesAndfiles.genruntimeconfig.cache
